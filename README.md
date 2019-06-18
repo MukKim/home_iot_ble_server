@@ -6,7 +6,8 @@
 
 
 ### 통신 과정
-* 안드로이드 App <-> REST API 서버(본 프로젝트) - 블루투스 서버 - IoT 단말
+* 안드로이드 App <-> REST API 서버 <-> 블루투스 서버(본 프로젝트) <-> IoT 단말
 
 ### 사용 기술
 * python
+* socket programming
